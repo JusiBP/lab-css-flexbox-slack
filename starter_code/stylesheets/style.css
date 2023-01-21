@@ -1,7 +1,99 @@
-/*
-background-grey: #F4F3F4;
-button-purple: #192592
-main-titles dark-grey: #2C303F;
-paragraph grey: #5b5e6d;
-nav grey: #5b5e6d;
-*/
+.logoNav{
+    width: 120px;
+}
+header{
+    padding: 30px;
+}
+.titleH1{
+    padding-top: 100px;
+    font-size: 60px;
+    margin-bottom: 20px
+}
+.webText{
+    color: rgb(106, 106, 106);
+}
+.coverImgDiv{
+    text-align: center;
+}
+.coverImg{
+    width: 100vw;
+    max-width: 610px;
+    padding-top: 20px;
+}
+.emailForm{
+    width: 350px;
+    margin: auto;
+    padding-top: 20px;
+    margin-bottom: 20px;
+}
+.emailFormButton{
+    width: 350px;
+    display: block;
+    margin: auto;
+    padding: 10px;
+    color: white;
+    font-size: 14px;
+    background-color: rgb(68, 68, 152);
+    border-style: none;
+}
+.centeredText{
+    margin-top: 10px;
+    margin-bottom: 30px;
+    text-align: center;
+    color: rgb(106, 106, 106);
+}
+.mainBody{
+    background-color: rgb(218, 218, 218);
+    padding: 60px 20px 60px 20px;
+}
+.titleH2{
+    text-align: center;
+    font-size: 35px;
+    margin-bottom: 20px
+}
+.discoverButton{
+    width: 350px;
+    display: block;
+    margin: auto;
+    margin-bottom: 50px;
+    padding: 10px;
+    color: rgb(68, 68, 152);
+    font-size: 14px;
+    background-color: white;
+    border: solid rgb(68, 68, 152);
+    font-weight: bold;
+}
+.companiesDiv{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.companyLogo{
+    width: 50vw;
+    padding: 25px 0px 25px 0px;
+}
+.titleH3{
+    text-align: center;
+    font-size: 25px;
+    margin: 40px 0px 20px 0px
+}
+.slackLogo{
+    width: 150px;
+    padding: 20px 20px 0px 0px;
+}
+.bottomLists{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    padding: 20px;
+}
+.bottomListDets{
+    color: rgb(106, 106, 106);
+    width: 180px;
+    margin-bottom: 50px;
+    list-style: none;
+}
+.footerDetails{
+    background-color: rgb(218, 218, 218);
+    padding: 40px 20px 20px 20px;
+}
